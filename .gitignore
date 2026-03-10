@@ -1,0 +1,31 @@
+# Project
+CLAUDE.md
+data/
+*.csv
+!tests/fixtures/*.csv
+
+# Tailwhip runtime index
+.tailwhip/
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environments
+.venv/
+venv/
+.env
+
+# IDEs
+.vscode/
+.idea/
