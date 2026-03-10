@@ -1,0 +1,169 @@
+{
+  "sku": [
+    "part number",
+    "part_number"
+  ],
+  "nota fiscal": [
+    "nf",
+    "nfe",
+    "notafiscal",
+    "danfe"
+  ],
+  "fatura": [
+    "invoice",
+    "num invoice",
+    "numero fatura",
+    "fatura comercial"
+  ],
+  "despachante": [
+    "broker",
+    "agente aduaneiro",
+    "customs broker"
+  ],
+  "exportador": [
+    "exporter",
+    "supplier"
+  ],
+  "importador": [
+    "importer"
+  ],
+  "fabricante": [
+    "manufacturer"
+  ],
+  "di": [
+    "declaracao importacao",
+    "declaracao de importacao",
+    "numero di",
+    "num di"
+  ],
+  "li": [
+    "licenca importacao",
+    "licenca de importacao",
+    "num li"
+  ],
+  "duimp": [
+    "declaracao unica de importacao",
+    "declaracao unica"
+  ],
+  "lpco": [
+    "licenca produto controle",
+    "licenca produto"
+  ],
+  "processo": [
+    "cod processo",
+    "numero processo",
+    "process"
+  ],
+  "ncm": [
+    "classificacao fiscal",
+    "codigo ncm",
+    "tariff code",
+    "posicao tarifaria",
+    "naladi",
+    "naladish"
+  ],
+  "incoterm": [
+    "terms",
+    "condicao de venda",
+    "terms of trade"
+  ],
+  "adicao": [
+    "num adicao",
+    "numero adicao",
+    "addition"
+  ],
+  "conhecimento": [
+    "awb",
+    "bl",
+    "bill of lading",
+    "conhecimento de carga",
+    "documento transporte"
+  ],
+  "urf": [
+    "unidade da receita federal",
+    "recinto alfandegado",
+    "aduana",
+    "alfandega"
+  ],
+  "ii": [
+    "imposto de importacao",
+    "imposto importacao"
+  ],
+  "ipi": [
+    "imposto sobre produtos industrializados"
+  ],
+  "pis": [
+    "pis importacao",
+    "pis devido"
+  ],
+  "cofins": [
+    "cofins importacao",
+    "cofins devido"
+  ],
+  "icms": [
+    "imposto estadual",
+    "imposto circulacao mercadorias"
+  ],
+  "cif": [
+    "cost insurance freight",
+    "custo seguro frete"
+  ],
+  "fob": [
+    "free on board",
+    "valor fob"
+  ],
+  "frete": [
+    "freight",
+    "vlr frete",
+    "valor frete"
+  ],
+  "seguro": [
+    "insurance",
+    "vlr seguro",
+    "valor seguro"
+  ],
+  "moeda": [
+    "currency",
+    "cod moeda",
+    "moeda negociada"
+  ],
+  "taxa cambio": [
+    "exchange rate",
+    "taxa de cambio",
+    "currency rate",
+    "dollar rate"
+  ],
+  "valor": [
+    "vlr",
+    "value",
+    "amount"
+  ],
+  "quantidade": [
+    "qtde",
+    "qtd",
+    "qty"
+  ],
+  "descricao": [
+    "description"
+  ],
+  "status": [
+    "situacao",
+    "estado"
+  ],
+  "unidade medida": [
+    "uom",
+    "unit of measure",
+    "unidade estatistica",
+    "unidade comercial"
+  ],
+  "despesa": [
+    "expense"
+  ],
+  "ordem compra": [
+    "purchase order",
+    "po"
+  ],
+  "siscomex": [
+    "sistema comercio exterior"
+  ]
+}
